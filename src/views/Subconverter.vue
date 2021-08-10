@@ -262,7 +262,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{value: "http://home.wff.pub:25500/sub?"}],
+        backendOptions: [{value: "http://192.168.12.189:25500/sub?"}],
         remoteConfig: [
           {
             label: "universal",
